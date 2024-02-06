@@ -58,6 +58,7 @@ return {
         "c",
         "diff",
         "html",
+        "css",
         "javascript",
         "jsdoc",
         "json",
